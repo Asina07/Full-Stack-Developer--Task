@@ -1,0 +1,40 @@
+
+.listcars{
+    width: 700px;
+    height: 150px;
+    background-color: lightgray;
+    border: 1px solid black;
+    margin: 10px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    flex-direction: row;
+    padding: 10px;
+    margin-left: 250px;
+    padding-bottom: 20px;
+    
+}
+.listcars h5{
+    margin: 20px;
+    font-weight: 600;
+}
+
+.update{
+    display: flex;
+    /* flex-direction: column; */
+    margin-top: 80px;
+    width: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    width: 15px;
+}
+.input{
+    width: 85px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+

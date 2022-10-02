@@ -1,0 +1,45 @@
+.App {
+    text-align: center;
+  }
+  
+  .registration, .login {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  input {
+    width: 250px;
+    height: 40px;
+  }
+
+  .message{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: crimson;
+    
+  }
+
+  .btn{
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: dimgray;
+    color: beige;
+    border: 0;
+    width: 120px;
+    height: 30px;
+    font-weight: bold;
+  }
+  label{
+    font-weight: 300;
+    margin-right: 180px;
+  }
+  .header{
+    margin-right: 200px;
+    text-align: left;
+    padding-top: 50px;
+    font-weight:900;
+    color:darkgrey;
+  }
